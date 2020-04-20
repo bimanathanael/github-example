@@ -1,0 +1,17 @@
+git config --global user.name "bimanathanael"
+
+git config --global user.email bimanathanael95@gmaill.com
+
+git clone https://github.com/bimanathanael/github-example.git
+
+ls --> for viewing file and folder
+
+git add (file name) test.txt 
+
+git status --> check status
+
+git commit -m "(commit name)" filename
+
+git push -u origin master  -->>> transfering file from local to github
+
+status -> commit -> push
